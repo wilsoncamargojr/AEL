@@ -183,6 +183,7 @@ img{
 .nav__link, .nav__logo, .nav__toggle{
   color: var(--text-color);
   font-weight: var(--font-medium);
+  padding: 1.5rem 0 1rem;
 }
 
 .nav__logo:hover{
